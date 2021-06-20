@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>70911594396-vqbtpeile5730big40q2afp98ae8mgns.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.70911594396-vqbtpeile5730big40q2afp98ae8mgns</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>70911594396-5jpkedk66v6e6os4gd2p321cdf8rqfc9.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAJtQ0H_oY8YG7x6voRCGhvov6V6E-ZF2Y</string>
+	<key>GCM_SENDER_ID</key>
+	<string>70911594396</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.tebesa.dating</string>
+	<key>PROJECT_ID</key>
+	<string>app-tebesa</string>
+	<key>STORAGE_BUCKET</key>
+	<string>app-tebesa.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:70911594396:ios:22526be80a43362e36c259</string>
+</dict>
+</plist>
