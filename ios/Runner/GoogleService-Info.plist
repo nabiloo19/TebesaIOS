@@ -3,9 +3,9 @@
 <plist version="1.0">
 <dict>
 	<key>CLIENT_ID</key>
-	<string>70911594396-vqbtpeile5730big40q2afp98ae8mgns.apps.googleusercontent.com</string>
+	<string>70911594396-i882kunlf3g1agvsf1tecmuctju13b9r.apps.googleusercontent.com</string>
 	<key>REVERSED_CLIENT_ID</key>
-	<string>com.googleusercontent.apps.70911594396-vqbtpeile5730big40q2afp98ae8mgns</string>
+	<string>com.googleusercontent.apps.70911594396-i882kunlf3g1agvsf1tecmuctju13b9r</string>
 	<key>ANDROID_CLIENT_ID</key>
 	<string>70911594396-5jpkedk66v6e6os4gd2p321cdf8rqfc9.apps.googleusercontent.com</string>
 	<key>API_KEY</key>
@@ -15,7 +15,7 @@
 	<key>PLIST_VERSION</key>
 	<string>1</string>
 	<key>BUNDLE_ID</key>
-	<string>com.tebesa.dating</string>
+	<string>com.example.myapp</string>
 	<key>PROJECT_ID</key>
 	<string>app-tebesa</string>
 	<key>STORAGE_BUCKET</key>
@@ -31,6 +31,6 @@
 	<key>IS_SIGNIN_ENABLED</key>
 	<true></true>
 	<key>GOOGLE_APP_ID</key>
-	<string>1:70911594396:ios:22526be80a43362e36c259</string>
+	<string>1:70911594396:ios:4c2ef156017d0f5036c259</string>
 </dict>
 </plist>
